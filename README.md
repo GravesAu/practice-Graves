@@ -14,3 +14,6 @@ I enjoy the show because the **writing** makes the characters seems like real pe
 2. Thomas Gibson
 3. Kirsten Vangsness
 
+- Bob's Burgers
+- Chicken Sisters
+- Smiling Friends
