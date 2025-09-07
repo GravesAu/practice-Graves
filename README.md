@@ -40,3 +40,17 @@ Below is a list of people I would like to meet. This table shows their names, th
 
 > "We build too many walls and enough bridges "  
 *— Sir Isaac Newton*
+
+---
+
+## TypeScript Snippet: Function Composition
+
+This snippet defines a `compose` function that allows multiple functions to be combined into a one pipeline. Each function’s output is passed as the input to the next
+
+```ts
+const compose = (...fns: Func[]) => {
+  fns.reduce((f, g) => (...args: any[]) => f(...castArray(g(...args))));
+}
+```
+
+Code link: <https://pieces.app/collections/typescript>
