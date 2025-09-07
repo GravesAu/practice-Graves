@@ -31,4 +31,12 @@ Below is a list of people I would like to meet. This table shows their names, th
 | Noah Kahan | Favorite Music Artist | 01/01/1997| - |
 | Cassandra Clare | Favorite Author | 07/27/1973 | - |
 
+---
 
+## Inspirational Quotes from Scientists
+
+> "I am among those who think that science has great beauty."  
+*— Marie Curie*
+
+> "We build too many walls and enough bridges "  
+*— Sir Isaac Newton*
